@@ -1,5 +1,5 @@
-Tasks Overview
-Task 1 (Visualization of genders and age using Histogram)
+#Tasks Overview
+##Task 1 (Visualization of genders and age using Histogram)
 This script visualizes the distribution of genders and ages in a population using bar charts and histograms with matplotlib.
 
 Overview :
